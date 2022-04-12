@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Static site trial</title>
-    <link>https://static-site-test.zsr-app.com/</link>
-    <description>Recent content on Static site trial</description>
+    <title>Posts on Static site trial</title>
+    <link>https://static-site-test.zsr-app.com/posts/</link>
+    <description>Recent content in Posts on Static site trial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Tue, 12 Apr 2022 07:30:56 +0100</lastBuildDate><atom:link href="https://static-site-test.zsr-app.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 07:30:56 +0100</lastBuildDate><atom:link href="https://static-site-test.zsr-app.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://static-site-test.zsr-app.com/posts/my-first-post/</link>
